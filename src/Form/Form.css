@@ -1,0 +1,24 @@
+.form-container {
+    display: block;
+    text-align: center;
+}
+.form-class {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.button-container {
+ display: flex;
+}
+.button {
+    padding: 6px;
+    background: bisque;
+    border-radius: 5px;
+}
+.error-msg {
+    display: block;
+    margin-left: 130px;
+    color: red;
+    font-size: 14px;
+}
